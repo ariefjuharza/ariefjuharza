@@ -25,7 +25,7 @@ Currently, I'm focused on developing independent web projects and open-source to
 > A minimalist digital space for curated recommendations and thoughts, built with Hugo, Tailwind CSS, and Sveltia CMS.
 
 ### [📱 UniVPN (Android)](#)
-> A lightweight VPN client app designed for accessibility and ease of use, especially on older Android devices. *(Coming soon to Play Store)*
+> A lightweight VPN client app designed for accessibility and ease of use, especially on older Android devices.
 
 ---
 
